@@ -1,0 +1,15 @@
+---
+image: media/headshot.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: GitHub
+      href: https://github.com/avner-ak
+    - text: Email
+      href: mailto:avner@u.northwestern.edu
+---
+I am a Ph.D. student in economics at Northwestern University.
+---
