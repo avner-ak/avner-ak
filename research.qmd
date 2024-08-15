@@ -23,8 +23,6 @@ title: "Research"
 </div>
 ```
 
-## Working papers
-
 ## Works in progress
 
 | **Firm Productivity and Learning in Computing**
