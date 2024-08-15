@@ -13,7 +13,7 @@ about:
     - text: Email
       href: mailto:avner@u.northwestern.edu
 ---
-I am a fourth-year Ph.D. student in economics at Northwestern University. I do research in empirical and theoretical industrial organization on information sharing, pricing algorithms, and other topics related to competition and antitrust.
+I am a fourth-year Ph.D. student in economics at Northwestern University (degree expected in 2027). I do research in empirical and theoretical industrial organization, primarily on topics related to antitrust and competition policy.
 
-Previously, I worked in economic consulting at Cornerstone Research. Prior to that, I did my undergrad at Stanford.
+I previously worked in economic consulting at Cornerstone Research. Prior to that, I did my undergrad at Stanford, graduating in 2018.
 ---
