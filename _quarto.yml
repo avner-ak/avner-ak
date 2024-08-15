@@ -16,8 +16,8 @@ website:
 format:
   html:
     theme: 
-      - pulse
-      - mre-styles.scss
+      - simplex
+      - more-styles.scss
     css: styles.css
     toc: false
     callout-icon: false
