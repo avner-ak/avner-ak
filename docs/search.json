@@ -11,6 +11,34 @@
     "href": "index.html",
     "title": "Avner A. Kreps",
     "section": "",
-    "text": "I am a Ph.D. student in economics at Northwestern University."
+    "text": "I am a Ph.D. student in economics at Northwestern University. I am interested in industrial organization, antitrust, and competition."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Rules for the Rulemakers: Asymmetric Information and the Political Economy of Benefit-Cost Analysis\nwith David Besanko and Clair Yang\nJournal of Regulatory Economics 66(1):1–51, 2024\n  \n            Abstract\n  \n  \n  \n            Link\n  \n  \n  \n\n  \n    This paper presents a model of an executive administration that decides whether to mandate benefit-cost analysis (BCA) of newly proposed regulations. A regulator has private information about the social benefit of a new rule but may differ from the executive’s preferences for regulation. BCA, which provides a noisy signal of the rule’s social benefit, is most valuable when the executive is regulation neutral. Extremely regulation-averse administrations may be harmed by BCA unless they can bias it. Our results are consistent with use of BCA by U.S. presidential administrations since Reagan."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in progress",
+    "text": "Works in progress\nFirm Productivity and Learning in Computing\nwith James Brand, Mert Demirer, and Connor Finucane\n  \n            Abstract\n  \n  \n\n  \n    Computing has become a critical input in the modern firm, with compute technologies integrated across various parts of the production process. However, there is little large-scale evidence on how efficiently firms use these technologies. In this paper, we study firm productivity and learning in cloud computing by leveraging CPU utilization data from over 1 billion virtual machines used by nearly 100,000 firms.  We find large and persistent heterogeneity in compute productivity, both across and within firms, similar to canonical results in the literature. More productive firms respond better to demand fluctuations, use a wider variety of specialized machines, and show higher attentiveness to resource utilization. Notably, productivity is dynamic as firms learn to be more productive over time. New cloud adopters improve their productivity by 40\\% in their first year and reach the productivity level of experienced firms within four years. Our counterfactual calculations suggest large aggregate implications of dispersion in compute productivity: raising all firms to the 80th percentile of productivity would reduce the consumption of compute resources and electricity by 20%.\n  \n\n\nAntitrust Spillovers: Evidence from Meatpacking, 1917–1921\n  \n            Abstract\n  \n  \n\n  \n    How does antitrust enforcement in product markets affect outcomes in input markets? I explore this question theoretically and empirically in the context of the U.S. meatpacking industry in the early 20th century. I exploit a 1920 consent decree designed to prevent meatpacking firms from colluding in livestock (input) and product markets, but which did not directly affect the labor market. I use novel occupation-level wage and employment data to characterize how this change in product and input market conduct affected wages of meatpacking employees, and how the effect differed across different types of workers. I find that after the consent decree, average meatpacking wages increased by 3.7% relative to the wages of other occupations in the same city, while the wages of unskilled employees increased by more than the wages of skilled employees. Using a model of labor market competition under different kinds of product market conduct, I establish two potential mechanisms: that meatpackers held more market power over skilled workers, and that the marginal product of skilled workers was more decreasing. The results highlight that welfare analyses of antitrust enforcement should account for spillovers into markets besides the one directly targeted."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Rules for the Rulemakers: Asymmetric Information and the Political Economy of Benefit-Cost Analysis\nwith David Besanko and Clair Yang\nJournal of Regulatory Economics 66(1):1–51, 2024\n  \n            Abstract\n  \n  \n  \n            Link\n  \n  \n  \n\n  \n    This paper presents a model of an executive administration that decides whether to mandate benefit-cost analysis (BCA) of newly proposed regulations. A regulator has private information about the social benefit of a new rule but may differ from the executive’s preferences for regulation. BCA, which provides a noisy signal of the rule’s social benefit, is most valuable when the executive is regulation neutral. Extremely regulation-averse administrations may be harmed by BCA unless they can bias it. Our results are consistent with use of BCA by U.S. presidential administrations since Reagan."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers"
   }
 ]

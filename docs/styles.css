@@ -1,1 +1,12 @@
 /* css styles */
+.callout-note {
+  margin-top: 0; /* 1.25rem by default */
+  margin-bottom: 0; /* 1.25rem by default */
+}
+
+break{
+  flex-basis: 100%;
+  width: 0px; 
+  height: 0px; 
+  overflow: hidden;
+}

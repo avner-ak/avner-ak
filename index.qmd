@@ -8,8 +8,12 @@ about:
   links:
     - text: GitHub
       href: https://github.com/avner-ak
+    - text: Twitter
+      href: https://x.com/avner_ak
     - text: Email
       href: mailto:avner@u.northwestern.edu
 ---
-I am a Ph.D. student in economics at Northwestern University.
+I am a fourth-year Ph.D. student in economics at Northwestern University. I do research in empirical and theoretical industrial organization on information sharing, pricing algorithms, and other topics related to competition and antitrust.
+
+Previously, I worked in economic consulting at Cornerstone Research. Prior to that, I did my undergrad at Stanford.
 ---
