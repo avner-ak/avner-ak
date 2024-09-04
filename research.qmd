@@ -1,5 +1,5 @@
 ---
-title: "Research"
+pagetitle: Avner A. Kreps - Research
 ---
 
 ## Working papers
