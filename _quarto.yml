@@ -23,6 +23,7 @@ format:
     callout-icon: false
     callout-appearance: minimal
     page-layout: full
+    email-obfuscation: javascript
 
 editor: visual
 
