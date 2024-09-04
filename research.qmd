@@ -4,7 +4,7 @@ title: "Research"
 
 ## Working papers
 | [**Firm Productivity and Learning in the Digital Economy: Evidence from Cloud Computing**](files/cloud_productivity.pdf)
-| with James Brand, Mert Demirer, and Connor Finucane
+| with [James Brand](https://www.jamesbrandecon.com), [Mert Demirer](https://www.mertdemirer.com/), and Connor Finucane
 ```{=html}
   <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-cloud-prod" aria-expanded="false" aria-controls="a-cloud-prod">
             Abstract
@@ -19,7 +19,7 @@ title: "Research"
 
 ## Publications
 | [**Rules for the Rulemakers: Asymmetric Information and the Political Economy of Benefit-Cost Analysis**](https://link.springer.com/article/10.1007/s11149-024-09483-4)
-| with David Besanko and Clair Yang
+| with [David Besanko](https://www.kellogg.northwestern.edu/faculty/directory/besanko_david.aspx) and [Clair Yang](https://sites.google.com/site/clairzyang/home)
 | *Journal of Regulatory Economics* 66(1):1--51, 2024
 ```{=html}
   <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-rules" aria-expanded="false" aria-controls="a-rules">
