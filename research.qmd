@@ -2,19 +2,29 @@
 title: "Research"
 ---
 
+## Working papers
+| [**Firm Productivity and Learning in the Digital Economy: Evidence from Cloud Computing**](cloud_productivity.pdf)
+| with James Brand, Mert Demirer, and Connor Finucane
+```{=html}
+  <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-cloud-prod" aria-expanded="false" aria-controls="a-cloud-prod">
+            Abstract
+  </button>
+  
+<div class="collapse gap-1" id="a-cloud-prod">
+  <div class="card card-body">
+    Computing technologies have become critical inputs to production in the modern firm. However, there is little large-scale evidence on how efficiently firms use these technologies. In this paper, we study firm productivity and learning in cloud computing by leveraging CPU utilization data from over one billion virtual machines used by nearly 100,000 firms. We find large and persistent heterogeneity in compute productivity both across and within firms, similar to canonical results in the literature. More productive firms respond better to demand fluctuations, show higher attentiveness to resource utilization, and use a wider variety of specialized machines. Notably, productivity is dynamic as firms learn to be more productive over time. New cloud adopters improve their productivity by 33% in their first year and reach the productivity level of experienced firms within four years. In our counterfactual calculations, we estimate that raising all firms to the 80th percentile of productivity would reduce aggregate electricity usage by 17%.
+  </div>
+</div>
+```
+
 ## Publications
-| **Rules for the Rulemakers: Asymmetric Information and the Political Economy of Benefit-Cost Analysis**
+| [**Rules for the Rulemakers: Asymmetric Information and the Political Economy of Benefit-Cost Analysis**](https://link.springer.com/article/10.1007/s11149-024-09483-4)
 | with David Besanko and Clair Yang
 | *Journal of Regulatory Economics* 66(1):1--51, 2024
 ```{=html}
   <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-rules" aria-expanded="false" aria-controls="a-rules">
             Abstract
   </button>
-  <a href="files/besanko-kreps-yang_bca.pdf">
-  <button class="btn-sm" type="button">
-            Link
-  </button>
-  </a>
   
 <div class="collapse gap-1" id="a-rules">
   <div class="card card-body">
@@ -25,19 +35,7 @@ title: "Research"
 
 ## Works in progress
 
-| **Firm Productivity and Learning in the Digital Economy: Evidence from Cloud Computing**
-| with James Brand, Mert Demirer, and Connor Finucane
-```{=html}
-  <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-cloud-prod" aria-expanded="false" aria-controls="a-cloud-prod">
-            Abstract
-  </button>
-  
-<div class="collapse gap-1" id="a-cloud-prod">
-  <div class="card card-body">
-    Computing technologies have become critical inputs to production in the modern firm. However, there is little large-scale evidence on how efficiently firms use these technologies. In this paper, we study firm productivity and learning in cloud computing by leveraging CPU utilization data from over one billion virtual machines used by nearly 100,000 firms.  We find large and persistent heterogeneity in compute productivity, both across and within firms, similar to canonical results in the literature. More productive firms respond better to demand fluctuations, use a wider variety of specialized machines, and show higher attentiveness to resource utilization. Notably, productivity is dynamic as firms learn to be more productive over time. New cloud adopters improve their productivity by more than 30% in their first year and reach the productivity level of experienced firms within four years. In our counterfactual calculations, we estimate that raising all firms to the 80th percentile of productivity would reduce aggregate electricity usage by 17%.
-  </div>
-</div>
-```
+| **Information Sharing versus Collusion in Poultry Processing**
 |
 | **Antitrust Spillovers: Evidence from Meatpacking, 1917–1921**
 
