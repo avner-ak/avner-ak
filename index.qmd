@@ -17,5 +17,5 @@ I am a fourth-year Ph.D. student in economics at Northwestern University (degree
 
 Before starting my Ph.D., I worked in economic consulting at Cornerstone Research. I graduated from Stanford in 2018 with a BA in economics and an MA in public policy.
 
-Check out my [CV](files/cv.pdf).
+Check out my [<u>CV</u>](files/cv.pdf).
 ---

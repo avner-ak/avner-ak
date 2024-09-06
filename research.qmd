@@ -24,7 +24,9 @@ pagetitle: Avner A. Kreps - Research
 ```{=html}
   <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-rules" aria-expanded="false" aria-controls="a-rules">
             Abstract
-  </button>
+  </button> <a href="files/bca_online_appendix.pdf"><button class="btn-sm" type="button">
+            Online Appendix
+  </button> </a>
   
 <div class="collapse gap-1" id="a-rules">
   <div class="card card-body">
