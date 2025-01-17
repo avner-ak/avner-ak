@@ -2,23 +2,8 @@
 pagetitle: Avner A. Kreps - Research
 ---
 
-## Working papers
-| [**Firm Productivity and Learning in the Digital Economy: Evidence from Cloud Computing**](files/cloud_productivity.pdf)
-| with [James Brand](https://www.jamesbrandecon.com), [Mert Demirer](https://www.mertdemirer.com/), and Connor Finucane
-```{=html}
-  <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-cloud-prod" aria-expanded="false" aria-controls="a-cloud-prod">
-            Abstract
-  </button>
-  
-<div class="collapse gap-1" id="a-cloud-prod">
-  <div class="card card-body">
-    Computing technologies have become critical inputs to production in the modern firm. However, there is little large-scale evidence on how efficiently firms use these technologies. In this paper, we study firm productivity and learning in cloud computing by leveraging CPU utilization data from over one billion virtual machines used by nearly 100,000 firms. We find large and persistent heterogeneity in compute productivity both across and within firms, similar to canonical results in the literature. More productive firms respond better to demand fluctuations, show higher attentiveness to resource utilization, and use a wider variety of specialized machines. Notably, productivity is dynamic as firms learn to be more productive over time. New cloud adopters improve their productivity by 33% in their first year and reach the productivity level of experienced firms within four years. In our counterfactual calculations, we estimate that raising all firms to the 80th percentile of productivity would reduce aggregate electricity usage by 17%.
-  </div>
-</div>
-```
-
 ## Publications
-| [**Rules for the Rulemakers: Asymmetric Information and the Political Economy of Benefit-Cost Analysis**](https://link.springer.com/article/10.1007/s11149-024-09483-4)
+| [**Rules for the Rulemakers: Asymmetric Information and the Political Economy of Benefit-Cost Analysis**](https://link.springer.com/article/10.1007/s11149-024-09483-4){target="_blank"}
 | with [David Besanko](https://www.kellogg.northwestern.edu/faculty/directory/besanko_david.aspx) and [Clair Yang](https://sites.google.com/site/clairzyang/home)
 | *Journal of Regulatory Economics* 66(1):1--51, 2024
 ```{=html}
@@ -35,10 +20,31 @@ pagetitle: Avner A. Kreps - Research
 </div>
 ```
 
+
+## Working papers
+| [**Firm Productivity and Learning in the Digital Economy: Evidence from Cloud Computing**](files/cloud_productivity.pdf){target="_blank"}
+| with [James Brand](https://www.jamesbrandecon.com), [Mert Demirer](https://www.mertdemirer.com/), and Connor Finucane
+```{=html}
+  <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-cloud-prod" aria-expanded="false" aria-controls="a-cloud-prod">
+            Abstract
+  </button>
+  
+<div class="collapse gap-1" id="a-cloud-prod">
+  <div class="card card-body">
+    Computing technologies have become critical inputs to production in the modern firm. However, there is little large-scale evidence on how efficiently firms use these technologies. In this paper, we study firm productivity and learning in cloud computing by leveraging CPU utilization data from over one billion virtual machines used by nearly 100,000 firms. We find large and persistent heterogeneity in compute productivity both across and within firms, similar to canonical results in the literature. More productive firms respond better to demand fluctuations, show higher attentiveness to resource utilization, and use a wider variety of specialized machines. Notably, productivity is dynamic as firms learn to be more productive over time. New cloud adopters improve their productivity by 33% in their first year and reach the productivity level of experienced firms within four years. In our counterfactual calculations, we estimate that raising all firms to the 80th percentile of productivity would reduce aggregate electricity usage by 17%.
+  </div>
+</div>
+```
+
 ## Works in progress
 
-Information Sharing versus Collusion in Poultry Processing
-
-Antitrust Spillovers: Evidence from Meatpacking, 1917–1921
+| **A Large Scale Evaluation of Merger Simulations**
+| with Vivek Bhattacharya, Gastón Illanes, José D. Salas, and David Stillerman
+|
+| **Information Sharing versus Collusion: Evidence from Poultry Processing**
+|
+| **Information Design and Monopoly Pricing Algorithms**
+|
+| **Antitrust Spillovers: Evidence from Meatpacking, 1917–1921**
 
 
