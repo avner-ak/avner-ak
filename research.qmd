@@ -39,11 +39,25 @@ pagetitle: Avner A. Kreps - Research
 </div>
 ```
 
+|
+| [**A Large-Scale Evaluation of Merger Simulations**](files/merger_sim.pdf){target="_blank"}
+| with [Vivek Bhattacharya](https://sites.northwestern.edu/vivek), [Gastón Illanes](https://sites.northwestern.edu/gil208), José D. Salas, and [David Stillerman](https://sites.google.com/view/davidstillerman)
+
+```{=html}
+  <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-merger_sim" aria-expanded="false" aria-controls="a-merger_sim">
+            Abstract
+  </button>
+  
+<div class="collapse gap-1" id="a-merger_sim">
+  <div class="card card-body">
+    Prospective merger simulations are a commonly used tool in antitrust, but evidence about their accuracy is limited. We study 92 consummated mergers in consumer packaged goods and compare the realizations of price changes with predictions from merger simulations. Predicted price changes are correlated with, but typically larger than, realized price changes. Merger simulations have limited predictive power but are still typically more predictive than relying solely on structural presumptions. We use the departure between realization and predictions to estimate supply-side changes after the merger and find a role for both synergies and a departure from Bertrand-Nash conduct post-merger.
+  </div>
+</div>
+```
+
 ## Works in progress
 
-| **A Large Scale Evaluation of Merger Simulations**
-| with [Vivek Bhattacharya](https://sites.northwestern.edu/vivek), [Gastón Illanes](https://sites.northwestern.edu/gil208), José D. Salas, and [David Stillerman](https://sites.google.com/view/davidstillerman)
-| 
+
 | **Information Sharing versus Collusion: Evidence from Poultry Processing**
 | 
 | **Common Pricing Algorithms and Information Design**
