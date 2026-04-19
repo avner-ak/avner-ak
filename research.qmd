@@ -58,7 +58,7 @@ pagetitle: Avner A. Kreps - Research
 ## Works in progress
 
 
-| **Information Sharing versus Collusion: Evidence from Poultry Processing**
+| **Information Sharing versus Collusion: Theory and Evidence from Poultry Processing**
 | 
 | **Common Pricing Algorithms and Information Design**
 | 
