@@ -8,3 +8,20 @@
 .httr-oauth
 .DS_Store
 .quarto
+.positai
+
+**/*.quarto_ipynb
+
+CLAUDE.md
+
+# LaTeX CV: ignore source and all build artifacts; only the compiled cv.pdf is committed
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
