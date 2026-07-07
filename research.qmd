@@ -46,7 +46,7 @@ pagetitle: Avner A. Kreps - Research
 
 <div class="collapse gap-1" id="a-merger_sim">
   <div class="card card-body">
-    Prospective merger simulations are a commonly used tool in industrial organization and antitrust, but evidence about their accuracy is limited. We study 101 mergers in consumer packaged goods and compare the realizations of price changes with predictions from merger simulations. Predicted price changes from merger simulations are typically larger than realized ones. We explore whether these deviations are consistent with cost synergies or driven by misspecification. Despite the overprediction, we find that merger simulations are more effective than structural presumptions at identifying mergers with large price changes.
+    Prospective merger simulations are a commonly used tool in industrial organization and antitrust, but evidence about their accuracy and predictive ability is limited. We study 101 mergers in consumer packaged goods and compare the realizations of price changes with predictions from merger simulations. In our sample of consummated mergers, predicted price changes from merger simulations are typically larger than realized ones. Despite the overprediction, we find that full merger simulations are more effective than both structural presumptions and approximations of the merger effect at identifying mergers with large price changes.
   </div>
 </div>
 ```
