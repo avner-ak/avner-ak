@@ -25,3 +25,6 @@ CLAUDE.md
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+
+# Claude Code local settings (personal, not for the repo)
+.claude/settings.local.json
