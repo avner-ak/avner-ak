@@ -16,6 +16,6 @@ about:
 
 I am a Ph.D. student in economics at Northwestern University (degree expected in 2027). I do research in empirical and theoretical industrial organization.
 
-**I am on the 2026-2027 job market.** A draft of my job market paper is available upon request.
+**I am on the 2026-2027 job market.** My job market paper is titled "Information Sharing and Collusion: Theory and Evidence from Poultry Processing"; a draft is available [<u>here</u>](files/jmp.pdf){target="_blank"}.
 
-Check out my [<u>CV</u>](files/cv.pdf).
+Check out my [<u>CV</u>](files/cv.pdf){target="_blank"}.

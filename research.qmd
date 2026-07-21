@@ -4,8 +4,8 @@ pagetitle: Avner A. Kreps - Research
 
 ## Working papers
 
-| **Information Sharing and Collusion: Theory and Evidence from Poultry Processing**
-| *Job market paper; draft available upon request*
+| [**Information Sharing and Collusion: Theory and Evidence from Poultry Processing**](files/jmp.pdf){target="_blank"}
+| *Job market paper*
 
 ```{=html}
   <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-poultry" aria-expanded="false" aria-controls="a-poultry">
@@ -14,7 +14,7 @@ pagetitle: Avner A. Kreps - Research
 
 <div class="collapse gap-1" id="a-poultry">
   <div class="card card-body">
-    Information exchanges among competitors have become more prevalent in recent years. While they may facilitate collusion, they may also affect outcomes purely by informing firms about their economic environment. Empirically distinguishing between these two forces is crucial for conduct testing and policy evaluation. This paper develops tools to do so and applies them to the Agri Stats information exchange among turkey processors. In the year after the exchange broke down, the retail price of participating processors fell by 5.1% relative to other processors, and descriptive evidence is suggestive of both conduct and information effects. I specify and estimate a structural model that identifies changes to conduct while controlling for information effects. I reject the null hypothesis of no conduct change, and estimate that subscribers acted like they internalized 47% of other participants' profits while sharing information. Information effects of the exchange alone reduce prices by 1.3%, but are outweighed by conduct effects. Bounds on collusive prices under counterfactual restrictions on information sharing indicate that firms can still attain near-monopoly profits even when sharing aggregated information.
+    Information exchanges among competitors have become more prevalent in recent years. While they may facilitate collusion by resolving monitoring problems, inviting antitrust scrutiny, they may also affect outcomes by informing firms about their economic environment. Empirically distinguishing between these two forces is crucial for conduct testing and policy evaluation. This paper develops tools to do so and applies them to the Agri Stats information exchange among turkey processors. In the year after the exchange ended, the retail price of participating processors fell by 5.1% relative to other processors, and descriptive evidence suggests both conduct and information effects played a role. I specify and estimate a structural model that identifies changes to conduct while controlling for information effects. I reject the null hypothesis of no conduct change, and estimate that Agri Stats clients acted like they internalized 47% of other subscribers' profits while sharing information. Information effects of Agri Stats alone reduce prices by 1.3%, but are outweighed by conduct effects. Bounds on collusive prices under counterfactual restrictions on information sharing indicate that firms can still attain near-monopoly profits even when sharing aggregated information.
   </div>
 </div>
 ```
