@@ -38,6 +38,7 @@ pagetitle: Avner A. Kreps - Research
 |
 | [**A Large-Scale Evaluation of Merger Simulations**](files/merger_sim.pdf){target="_blank"}
 | with [Vivek Bhattacharya](https://sites.northwestern.edu/vivek), [Gastón Illanes](https://sites.northwestern.edu/gil208), José D. Salas, and [David Stillerman](https://sites.google.com/view/davidstillerman)
+| *Revise and resubmit, American Economic Review*
 
 ```{=html}
   <button class="btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#a-merger_sim" aria-expanded="false" aria-controls="a-merger_sim">
