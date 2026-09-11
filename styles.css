@@ -14,3 +14,9 @@ break{
   height: 0; 
   overflow: hidden;
 }
+
+/* evaluation table on teaching.qmd: scroll sideways on narrow screens, never wrap cells */
+.table-responsive th,
+.table-responsive td {
+  white-space: nowrap;
+}
