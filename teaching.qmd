@@ -19,7 +19,7 @@ This table displays average scores from my teaching evaluations, as well as link
 :::
 
 ::: {.small .text-secondary}
-Students were asked to rate the TA from 1 to 6 on the following criteria: ^1^The TA was able to answer the students' questions adequately. ^2^The TA was well prepared for each session. ^3^The TA communicated ideas in a clear manner. ^4^The TA showed strong interest in teaching the course. Not all students may have answered each question.
+Students were asked to rate the TA from 1 to 6 on the following criteria: ^1^The TA was able to answer the students' questions adequately. ^2^The TA was well prepared for each session. ^3^The TA communicated ideas in a clear manner. ^4^The TA showed strong interest in teaching the course. **N** refers to the number of students that submitted a teaching evaluation; some students may not have answered every question.
 :::
 
 
