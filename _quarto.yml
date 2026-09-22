@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Avner A. Kreps"
+  favicon: media/favicon.png
   navbar:
     left:
       - href: index.qmd
